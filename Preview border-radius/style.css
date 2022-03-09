@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(145, 66, 248);
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    font-size: 22px;
+    color: rgb(253, 163, 60);
+}
